@@ -1,1 +1,2 @@
-a little blog system
+goblog
+
